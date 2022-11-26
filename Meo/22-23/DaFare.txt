@@ -1,7 +1,2 @@
-Esercitazione 1
-
-    Fare tutti i passaggi di cambio parametri per far vedere le differenze alla prof printando il grafo. (Fatto ma riguardare
-    bene tutti i passaggi e capirli meglio)
-
 Esercitazione 3
-    Rivedere bene il tutto e al massimo scrivere commenti su cosa succede
+    Chiedere bene come i grafici a sinistra quando vanno verso la punta che vuol dire
