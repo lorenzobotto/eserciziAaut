@@ -1,0 +1,8 @@
+Esercitazione 4
+    Capire bene cosa sta succedendo
+
+Esercitazione 3
+    Punto di Elbow (?)
+
+Esercitazione 2
+    Capire cosa succede nel Kernel

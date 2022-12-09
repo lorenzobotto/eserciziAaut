@@ -1,3 +1,0 @@
-Esercitazione 3
-    Chiedere bene come i grafici a sinistra quando vanno verso la punta che vuol dire
-    Punto di Elbow (?)
